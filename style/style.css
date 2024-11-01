@@ -72,6 +72,13 @@ body {
   height: 100%;
 }
 
+.kerala-photo {
+  display: block;
+  width: 100%;
+  border-radius: 10px;
+  margin-top: 20px;
+}
+
 .embed {
   width: 100%;
   aspect-ratio: 1/1;
