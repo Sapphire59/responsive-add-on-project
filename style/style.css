@@ -89,6 +89,14 @@ body {
   aspect-ratio: 1/1;
 }
 
+table {
+  border: 1px solid lightgray;
+  width: 100%;
+}
+td {
+  border-top: 1px solid lightgray;
+}
+
 section {
   max-width: 100%;
   margin: 0;
@@ -281,5 +289,8 @@ footer a {
   .park {
     margin-top: 20px;
   }
-  
+
+  .state {
+    display: none;
+  }
 }
